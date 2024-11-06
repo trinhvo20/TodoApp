@@ -1,0 +1,11 @@
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+}
+
+.input-div {
+    margin: 1.5rem 0px;
+    display: flex;
+    gap: 10px;
+}
